@@ -3,8 +3,10 @@ Place each clause on a separate line, indented to show its level of subordinatio
 
 Hercules cum in hospitium 
 >ad Dexamenum regem uenisset
-eiusque filiam Deianiram deuirginasset, volebat eam uxorem ducere. 
-cum Hercules abesset, centaurus Eurytion petit Deianiram uxorem. 
+>>eiusque filiam Deianiram deuirginasset,
+>>>volebat eam uxorem ducere. 
+cum Hercules abesset, 
+>centaurus Eurytion petit Deianiram uxorem. 
 quia pater eius centaurum timebat,
 >pollicitus est se daturum.
 Tempore certo, 
@@ -24,7 +26,7 @@ Identify the form of the noun-adjective phrase tempore certo, and explain why it
 
 C. Translation
 Please translate the passgae into idiomatic English.
-Hercules, when hosting, came towards Dexamenus the king, this who's daughter Deianira he had deflowered, wanted this wife to lead.
+Hercules, when hosting, came towards Dexamenus the king, this who's daughter Deianira he had deflowered, wanted to lead this wife.
 When Hercules was away, the centaur Eurytion asks to wife Deianira.
 Since the father was scared of this centaur, he had been promised her to be gifted.
 At a fixed time, the centaur came with his brother towards the wedding.
