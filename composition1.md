@@ -12,6 +12,7 @@ Your second sentence should state that when her father Eurytus was unwilling, He
 Your third sentence should express that Hercules said that he would kill her parents, and should include an indirect statement.
 Your fourth sentence should say that Iole endured that her parents were killed.
 Your fifth statement should say that when he had killed all of them, he sent Iole to Deianira.
+                                    cum                     mitto
 Notes
 Iole is a Greek name, and Hyginus uses the Greek form of her name in the accusative, Iolen.
 
@@ -28,3 +29,7 @@ peto, petĕre, petivi or petii, petitus
 quia
 
 Composition
+cum Hercules venisset ad Oechaliam, is rogavit duxisse Iolen ad conjugii.
+cum pater euis nollet, Hercules cepit Oechalia.
+Hercules dicet is interfecturum esse patres euis.
+Omnis patres euis interfecerant passum esse Iolen.
