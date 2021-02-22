@@ -45,3 +45,9 @@ When Hercules was away, the centaur Eurytion asks to wife Deianira.
 Since the father was scared of this🤔 centaur, he had been promised her to be gifted.❌
 At a fixed time, the centaur came with his brother❌ towards the wedding.
 Hercules came between them and the centaur was killed❌, Deianira was taken away❌.
+
+When Hercules in hospitality came towards Dexamenus the king, this who's daughter Deianira he had deflowered, he wanted to lead this wife.❌
+When Hercules was away, the centaur Eurytion asks to wife Deianira.
+Since the father was scared of this🤔 centaur, he had been promised her to be gifted.❌
+At a fixed time, the centaur came with his brother❌ towards the wedding.
+Hercules came between them and the centaur was killed❌, Deianira was taken away❌.
