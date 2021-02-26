@@ -29,10 +29,10 @@ centaurus Eurytion petit Deianiram uxorem.
 >quia pater eius centaurum timebat,
 pollicitus est
 >se daturum.
-Tempore certo, 
->venit centaurus cum fratribus ad nuptias. 
-Hercules interuenit et centaurum interfecit, 
->Deianiram abduxit.
+Tempore certo, venit centaurus cum fratribus ad nuptias. 
+Hercules interuenit 
+et centaurum interfecit, 
+Deianiram abduxit.
 
 B. Grammatical questions
 Write a dictionary entry (nominative singular, genitive singular, gender) for Dexamenum, then identify the form Dexamenum. Dexamenus, Dexameni m. accusative singular
@@ -50,8 +50,8 @@ Since the father was scared of this🤔 centaur, he had been promised her to be 
 At a fixed time, the centaur came with his brother❌ towards the wedding.
 Hercules came between them and the centaur was killed❌, Deianira was taken away❌.
 
-When Hercules in hospitality came towards Dexamenus the king, this who's daughter Deianira he had deflowered, he wanted to lead her as his wife.❌
+When Hercules came to the hospitality of Dexamenus the king, this who's daughter Deianira he had deflowered, he wanted to lead her as his wife.
 When Hercules was away, the centaur Eurytion asks to wife Deianira.
-Since the father was scared of the centaur, he had been promised her to be gifted.❌
-At a fixed time, the centaur came with his brother❌ towards the wedding.
-Hercules came between them and the centaur was killed❌, Deianira was taken away❌.
+Since the father of Deianira was scared of the centaur, he promised he would gift her.
+At a fixed time, the centaur came to the wedding with his brothers.
+Hercules came between them and killed the centaur, he took Deianira away.
