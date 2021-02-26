@@ -32,7 +32,7 @@ pollicitus est
 Tempore certo, 
 >venit centaurus cum fratribus ad nuptias. 
 Hercules interuenit et centaurum interfecit, 
->Deianiram abduxit
+>Deianiram abduxit.
 
 B. Grammatical questions
 Write a dictionary entry (nominative singular, genitive singular, gender) for Dexamenum, then identify the form Dexamenum. Dexamenus, Dexameni m. accusative singular
