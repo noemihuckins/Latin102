@@ -1,3 +1,6 @@
+**Needs revisions**
+**Very solid first draft!**
+
 Background story
 (Based on chapter 35 of Hyginus)
 Heracles travelled to the city of Oechalia in Aetolia, and asked the king, Eurytus, for permission to marry his daughter, Iole. 
@@ -29,8 +32,9 @@ peto, petĕre, petivi or petii, petitus
 quia
 
 Composition
-Cum Hercules venisset ad Oechaliam, is petivit duxisse Iolen ad conjugii.
-Cum pater euis nollet, Hercules cepit Oechalia.
-Hercules dicet is interfecturum esse patres euis.
-Omnis patres euis interfecerant passum esse Iolen.
-Cum is interficeret omnis, is misit Iolem ad Deianiram.
+
+Cum Hercules venisset ad❌ Oechaliam, is petivit duxisse❌ Iolen ad conjugii❌.
+Cum pater euis nollet, Hercules cepit Oechalia❌.
+Hercules dicet❌ is❌ interfecturum esse patres❓s euis.
+Omnis patres euis interfecerant passum esse Iolen.❌
+Cum is interficeret❌ omnis, is misit Iolem ad Deianiram.
