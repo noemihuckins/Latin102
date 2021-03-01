@@ -43,13 +43,13 @@ Hercules was ordered by Eurystheus to perform twelve labors. Eurystheus was the 
 you could make the second sentence a relative clause like this:
 Hercules was ordered by Eurystheus, who was the son of Sthenelus, to perform twelve labors.
 
-The brothers were violent Centaurs. Eurytion came to the wedding with his brothers. CHECKED
+The brothers were violent Centaurs. Eurytion came to the wedding with his brothers. 
 > The brothers, with whom Eurytion came to the wedding, were violent centaurs.
 > relative pronoun: quibus
 > antecedant: brothers ablative plural, fratribus
 > gender and number: masculine plural
 > case: ablative because it is expressing the circumstances of who is going with them 
-Dexamenus was afraid of Eurytion. Deanira was promised in marriage to Eurytion. CHECKED
+Dexamenus was afraid of Eurytion. Deanira was promised in marriage to Eurytion. 
 > Dexamenus was afraid of Eurytion, to whom Deanira was promised in marriage.
 > relative pronoun: cui
 > antecedant: Eurytion dative singular, 
@@ -67,7 +67,7 @@ Nessus tried to rape Deianira. Hercules killed Nessus.
 > antecedant: Nessus nominative singular, Nessus
 > gender and number: masculine singular
 > case: nominative because Nessus is the subject of the sentence
-Nessus gave Deianira a vial of blood. Hercules was poisoned by the blood. CHECKED
+Nessus gave Deianira a vial of blood. Hercules was poisoned by the blood. 
 > Nessus gave Deianira a vial of blood, by which Hercules was poisoned.
 > relative pronoun: quo
 > antecedant: vial of blood ablative singular, calce sanguinis
@@ -79,7 +79,7 @@ In Egypt, Hercules killed the priest Busiris. Busiris regularly sacrificed forei
 > antecedant: Busiris accusative singular, Busirem
 > gender and number: masculine singular
 > case: accusative because he is the direct object of the verb
-Prometheus’ heart was devoured by an eagle. Hercules shot the eagle dead with his arrows. CHECKED
+Prometheus’ heart was devoured by an eagle. Hercules shot the eagle dead with his arrows. 
 > Prometheus’ heart was devoured by an eagle, which Hercules shot dead with his arrows.
 > relative pronoun: quem
 > antecedant: eagle accusative singular, aquilam
@@ -91,14 +91,14 @@ Lycus tried to kill Megara and her sons Therimachus and Ophites. Lycus was kille
 > antecedant: Lycus nominative singular, Lycus
 > gender and number: masculine singular
 > case: nominative because Lycus is the subject of the sentence
-Hercules stole a tripod from the temple at Delphi. Apollo refused to give Hercules an oracle. CHECKED
+Hercules stole a tripod from the temple at Delphi. Apollo refused to give Hercules an oracle. 
 > Hercules, to whom Apollo refused to give an oracle, stole a tripod from the temple at Delphi.
 > relative pronoun: cui
 > antecedant: Hercules dative singular, Herculi
 > gender and number: masculine singular
 > case: dative because Hercules is the indirect object of the verb
 Hercules killed his own wife Megara. Juno drove threw Hercules into a fit of madness.
-> Juno drove threw Hercules, who killed his own wife Megara, into a fit of madness.
+> Hercules, whom Juno threw into a fit of madness, killed his own wife Megara.
 > relative pronoun: quem
 > antecedant: Hercules accusative singular, Herculem 
 > gender and number: masculine singular
