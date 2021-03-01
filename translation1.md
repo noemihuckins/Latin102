@@ -37,8 +37,8 @@ Deianiram abduxit.
 B. Grammatical questions
 Write a dictionary entry (nominative singular, genitive singular, gender) for Dexamenum, then identify the form Dexamenum. Dexamenus, Dexameni m. accusative singular
 Write a dictionary entry (nominative singular, genitive singular, gender) for Deianiram, then identify the form Deianiram. Deianira, Deianirae f. accusative singular
-Identify the form abesset, and explain why it is this tense and mood. 3rd person singular imperfect active subjunctive. Describing an unspecified time in the past and it is not a completed action ❌ emphasis on circumstance 
-Identify the form uenisset, and explain why it is this tense and mood. 3rd person singular pluperfect active subjunctive. Reffering to a completed event in the past ❌ emphasis on circumstance
+Identify the form abesset, and explain why it is this tense and mood. 3rd person singular imperfect active subjunctive. Describing an unspecified time in the past and it is not a completed action ❌ emphasis on circumstance, it is part of a temporal clause 
+Identify the form uenisset, and explain why it is this tense and mood. 3rd person singular pluperfect active subjunctive. Reffering to a completed event in the past ❌  It is in the pluperfect subjunctive because it is expressing an action that happened prior to the action of the independent clause and there is an emphasis on circumstance
 Identify the form pollicitus est. What dictionary form would you look under to find this verb? 3rd person singular perfect passive indicative. polliceor, polliceris, polliceri, pollicitus sum
 Identify the form of the noun-adjective phrase tempore certo, and explain why it is in this case. Ablative singular, it is in this case to express the circumstances of time 👍 *Yes, time **when** the event happened (as opposed to **duration** of time expressed by the accusative).*
 
@@ -51,7 +51,7 @@ At a fixed time, the centaur came with his brother❌ towards the wedding.
 Hercules came between them and the centaur was killed❌, Deianira was taken away❌.
 
 When Hercules came to the hospitality of Dexamenus the king, this who's daughter Deianira he had deflowered, he wanted to lead her as his wife.
-When Hercules was away, the centaur Eurytion asks to wife Deianira.
+When Hercules was away, the centaur Eurytion asked for the wife, Deianira.
 Since the father of Deianira was scared of the centaur, he promised he would gift her.
 At a fixed time, the centaur came to the wedding with his brothers.
 Hercules came between them and killed the centaur, he took Deianira away.
