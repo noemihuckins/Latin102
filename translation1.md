@@ -50,7 +50,7 @@ Since the father was scared of this🤔 centaur, he had been promised her to be 
 At a fixed time, the centaur came with his brother❌ towards the wedding.
 Hercules came between them and the centaur was killed❌, Deianira was taken away❌.
 
-When Hercules came to the hospitality of Dexamenus the king, this who's daughter Deianira he had deflowered, he wanted to lead her as his wife.
+When Hercules came to the hospitality of Dexamenus the king, and had deflowered his daughter Deianira, then he wanted to lead her as his wife.
 When Hercules was away, the centaur Eurytion asked for the wife, Deianira.
 Since the father of Deianira was scared of the centaur, he promised he would gift her.
 At a fixed time, the centaur came to the wedding with his brothers.
