@@ -42,5 +42,5 @@ Cum is interficeret❌ omnis, is misit Iolem ad Deianiram.
 Cum Hercules venisset Oechaliam, petivit ducere Iolen uxorem.
 Cum pater euis nollet, Hercules cepit Oechaliam.
 Hercules dixit se interfecturum esse parentes euis.
-Iole passa est parentes, qui erant cives Oechaliae, interfectos esse.
+Iole passa est parentes interfectos esse.
 Cum Hercules interfecisset omnes parentes, is misit Iolen ad Deianiram
