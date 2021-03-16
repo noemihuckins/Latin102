@@ -1,3 +1,6 @@
+**Needs slight revisions**
+**Really nice first submission!**
+
 Verb synopses
 Check one verb of the first or second conjugation *other than8 amo or habeo, and one verb of the third or third-io conjugation other than capio or duco. For each verb, complete the following synopsis, and translate indicative forms as complete sentences.
 cano
@@ -57,13 +60,13 @@ Dexamenus was afraid of Eurytion. Deanira was promised in marriage to Eurytion.
 > case: dative because Eurytion serves as the indirect object 
 Eurytion expected to marry Deianira. Eurytion’s brothers were centaurs.
 > Eurytion, whose brothers were centaurs, expected to marry Deianira.
-> relative pronoun: qui
+> relative pronoun: qui❌
 > antecedant: Eurytion nominative singular, 
 > gender and number: masculine singular
-> case: nominative because Eurytion is the subject of the sentence
+> case: nominative because Eurytion is the subject of the sentence❌
 Nessus tried to rape Deianira. Hercules killed Nessus.
-> Nessus, who was killed by Hercules, tried to rape Deianira.
-> relative pronoun: qui
+> Nessus, who was killed by Hercules❌, tried to rape Deianira.
+> relative pronoun: qui❌
 > antecedant: Nessus nominative singular, Nessus
 > gender and number: masculine singular
 > case: nominative because Nessus is the subject of the sentence
@@ -75,15 +78,15 @@ Nessus gave Deianira a vial of blood. Hercules was poisoned by the blood.
 > case: ablative, expressing the circumstances
 In Egypt, Hercules killed the priest Busiris. Busiris regularly sacrificed foreigners.
 > In Egypt, Hercules killed the priest Busiris, who regularly sacrificed foreigners.
-> relative pronoun: quem
+> relative pronoun: quem❌
 > antecedant: Busiris accusative singular, Busirem
 > gender and number: masculine singular
-> case: accusative because he is the direct object of the verb
+> case: accusative because he is the direct object of the verb❌
 Prometheus’ heart was devoured by an eagle. Hercules shot the eagle dead with his arrows. 
 > Prometheus’ heart was devoured by an eagle, which Hercules shot dead with his arrows.
-> relative pronoun: quem
+> relative pronoun: quem❌
 > antecedant: eagle accusative singular, aquilam
-> gender and number: masculine singular
+> gender and number: masculine❌ singular
 > case: accusative because he is the direct object of the verb
 Lycus tried to kill Megara and her sons Therimachus and Ophites. Lycus was killed by Hercules.
 > Lycus, who was killed by Hercules, tried to kill Megara and her sons Therimachus and Ophites.
