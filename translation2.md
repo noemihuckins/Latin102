@@ -38,7 +38,7 @@ Identify the form of moriens. Present Active Participle masculine, nominative, s
 Identify felle. Why does Hyginus use this case? Ablitive singular, to express the circumstance that the arrows were soaked in this
 Identify the form of tinctas. Perfect Passive Participle feminine, accusative, plural, passive 
 Identify the form of exceptum. Perfect Passive Participle nueter, nominative, singular, passive
-William Faulkner’s novel As I lay dying takes its title from an English translation of a single word in Odyssey 11.424. In Greek, where participles function very differently from English but similarly to Latin, that word is a present active participle. Suggest one or more possible translations of Faulkner’s title into Latin. As death nears
+William Faulkner’s novel As I lay dying takes its title from an English translation of a single word in Odyssey 11.424. In Greek, where participles function very differently from English but similarly to Latin, that word is a present active participle. Suggest one or more possible translations of Faulkner’s title into Latin. Moriens As death nears
 
 C. Translation 
 Deianira, the wife of Hercules, was not able to go across the great river, to which was named Evenus, and the centaur Nessus, who was the son of Ixion and Nubes, was asked to help. This delighted Deianira, in the river she wanted to injure herself. Hither when Hercules (might have) intervened with faith and Deianira (might have) begged with tears when Nessus constructed arrows. 
