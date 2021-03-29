@@ -28,4 +28,4 @@ Cum Deianira, filia Oeneae et uxor Herculis, viderit amoenam adolescentem puella
 Misit famulum eius procreandum ad Herculem veste intincto in sanguine Nessi centaurus, qua putatus est philtrum.
 Cum Hercules indueret, statim vestem flammaret.
 Hercules jecit famulum, quo missus est Deinnira, in mare.
-Ut relatum est, quod Hercules  
+Ut relatum est quod Hercules insurrexerit ad immortalitate, sed Deianira sui interfecerit.  
