@@ -24,4 +24,8 @@ induo, induĕre, indui, indutum “put on an article of dress or ornament”
 statim (adv.) “immediately”
 flammo, flammare, flammavi, flammatus “flame, burn”
 
-Cum Deianira, filia Oeneae et uxor Herculis, viderit amoenam adolescentem puellam Iolen adductam esse, coepiebat machinari
+Cum Deianira, filia Oeneae et uxor Herculis, viderit amoenam adolescentem puellam Iolen adductam esse, coepiebat machinari.
+Misit famulum eius procreandum ad Herculem veste intincto in sanguine Nessi centaurus, qua putatus est philtrum.
+Cum Hercules indueret, statim vestem flammaret.
+Hercules jecit famulum, quo missus est Deinnira, in mare.
+Ut relatum est, quod Hercules  
