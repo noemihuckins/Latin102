@@ -15,9 +15,7 @@ et centaurum Nessum,
 
 Hic Deianiram 
 
->*sublatam*  
-
->>in flumine ipso 
+>*sublatam*  in flumine ipso 
 
 *uiolare* *uoluit*. 
 
@@ -56,17 +54,17 @@ et
 *dixit*.
 
 B. Grammatical questions
-Identify the antecedent of cui, and its gender and number. Then explain what case cui is, and how it functions in the relative clause. (I.e., why is cui in this case?) flumen is the antecedant, it is neuter and singular. cui is in the dative because it is indicating that it is an indirect object.❌
+Identify the antecedent of cui, and its gender and number. Then explain what case cui is, and how it functions in the relative clause. (I.e., why is cui in this case?) flumen is the antecedant, it is neuter and singular. cui is in the dative because it is indicating the possesor.
 
-Identify the form of transire. Explain why you placed it in the clause you chose. Present Infinitive with the preposition across❌, to express the circumstances of what they were not able to do
+Identify the form of transire. Explain why you placed it in the clause you chose. Present Infinitive complementary to complete the idea of the verb, to express the circumstances of what they were not able to do
 
 sublatam is from a verb that is a compound of sub plus a verb you should know very well. Identify the form of this participle (which for participles means: gender, case, number, tense voice). Find the dictionary entry for this word in thed Lewis-Short’s Latin Dictionary, and give its URN here. feminine, accusative, singular, perfect passive participle
 
-Identify the form of sagittis. Why does Hyginus use this case? (Ablative) ❌ to indicate the instrument by which an action is accomplished
+Identify the form of sagittis. Why does Hyginus use this case? Ablative to indicate the instrument by which an action is accomplished
 
 Identify the form of moriens. Present Active Participle masculine, nominative, singular, active
 
-Identify felle. Why does Hyginus use this case? Ablitive singular, (to indicate the instrument by which an action is accomplished) ❌
+Identify felle. Why does Hyginus use this case? Ablitive singular, to indicate the instrument by which an action is accomplished
 
 Identify the form of tinctas. Perfect Passive Participle feminine, accusative, plural, passive 
 
@@ -75,10 +73,9 @@ Identify the form of exceptum. Perfect Passive Participle neuter, nominative, si
 William Faulkner’s novel As I lay dying takes its title from an English translation of a single word in Odyssey 11.424. In Greek, where participles function very differently from English but similarly to Latin, that word is a present active participle. Suggest one or more possible translations of Faulkner’s title into Latin. Moriens As death nears
 
 C. Translation 
-Deianira, the wife of Hercules, was not able to go across the great river, to which was named Evenus, and the centaur Nessus, who was the son of Ixion and Nubes, was asked to help.❌ 
+Deianira, the wife of Hercules, was not able to go across the great river, which was named Evenus. She asked the centaur Nessus, who was the son of Ixion and Nubes, for help.
 
-This delighted Deianira, in the river she wanted to injure herself.❌ 
-
+After she had been carried in the river, Nessus wanted to rape her.
 Hither when Hercules (might have) intervened with faith and Deianira (might have) begged with tears when Nessus constructed arrows. ❌
-
+He gave his blood to Deianira
 When dying, he knew that the arrows of Hydra of Lerna were soaked in bile. Having great strength, he gave his blood only to Deianira and said this is a love potion.❌
