@@ -3,10 +3,9 @@ Place each verbal idea (clause, indirect statement, participial expression) on a
 
 Deianira, 
 
->uxor Herculis, ❌
+uxor Herculis, ❌
 
-
->flumen magnum, ❌
+flumen magnum, 
 
 >>cui nomen Evenus *erat*, 
 
@@ -18,9 +17,9 @@ et centaurum Nessum,
 
 *auxilium* *rogavit*. 
 
-Hic Deianiram *sublatam*  ❌
+>Hic Deianiram *sublatam*  
 
->in flumine ipso *uiolare* *uoluit*. ❌
+>>in flumine ipso *uiolare* *uoluit*. 
 
 huc Hercules 
 
@@ -61,13 +60,13 @@ Identify the antecedent of cui, and its gender and number. Then explain what cas
 
 Identify the form of transire. Explain why you placed it in the clause you chose. Present Infinitive with the preposition across❌, to express the circumstances of what they were not able to do
 
-sublatam is from a verb that is a compound of sub plus a verb you should know very well. Identify the form of this participle (which for participles means: gender, case, number, tense voice). Find the dictionary entry for this word in thed Lewis-Short’s Latin Dictionary, and give its URN here. Site couldn't be reached ❌
+sublatam is from a verb that is a compound of sub plus a verb you should know very well. Identify the form of this participle (which for participles means: gender, case, number, tense voice). Find the dictionary entry for this word in thed Lewis-Short’s Latin Dictionary, and give its URN here. Site couldn't be reached feminine, accusative, singular, 
 
-Identify the form of sagittis. Why does Hyginus use this case? Dative❌ to epress thearrows as the indirect object of the sentence
+Identify the form of sagittis. Why does Hyginus use this case? (Ablative) ❌ to indicate the instrument by which an action is accomplished
 
 Identify the form of moriens. Present Active Participle masculine, nominative, singular, active
 
-Identify felle. Why does Hyginus use this case? Ablitive singular, to express the circumstance that the arrows were soaked in this❌
+Identify felle. Why does Hyginus use this case? Ablitive singular, (to indicate the instrument by which an action is accomplished) ❌
 
 Identify the form of tinctas. Perfect Passive Participle feminine, accusative, plural, passive 
 
