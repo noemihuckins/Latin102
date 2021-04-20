@@ -74,8 +74,8 @@ William Faulkner’s novel As I lay dying takes its title from an English transl
 
 C. Translation 
 Deianira, the wife of Hercules, was not able to go across the great river, which was named Evenus. She asked the centaur Nessus, who was the son of Ixion and Nubes, for help.
-
 After she had been carried in the river, Nessus wanted to rape her.
-Hither when Hercules (might have) intervened with faith and Deianira (might have) begged with tears when Nessus constructed arrows. ❌
+When Hercules intervened and when Deianira begged for his help, Hercules shot Nessus with arrows.
+Hither when Hercules (might have) intervened with faith and Deianira (might have) begged with tears when Nessus was pierced with arrows. ❌
 He gave his blood to Deianira
 When dying, he knew that the arrows of Hydra of Lerna were soaked in bile. Having great strength, he gave his blood only to Deianira and said this is a love potion.❌
