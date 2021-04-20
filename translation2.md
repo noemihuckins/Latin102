@@ -1,11 +1,7 @@
 A. Grammatical analysis
 Place each verbal idea (clause, indirect statement, participial expression) on a separate line, indented to show its level of subordination. Italicize the verb of each unit by surrounding it with asterisks.
 
-Deianira, 
-
-uxor Herculis, ❌
-
-flumen magnum, 
+Deianira, uxor Herculis, flumen magnum, 
 
 >>cui nomen Evenus *erat*, 
 
@@ -17,9 +13,13 @@ et centaurum Nessum,
 
 *auxilium* *rogavit*. 
 
->Hic Deianiram *sublatam*  
+Hic Deianiram 
 
->>in flumine ipso *uiolare* *uoluit*. 
+>*sublatam*  
+
+>>in flumine ipso 
+
+*uiolare* *uoluit*. 
 
 huc Hercules 
 
@@ -60,7 +60,7 @@ Identify the antecedent of cui, and its gender and number. Then explain what cas
 
 Identify the form of transire. Explain why you placed it in the clause you chose. Present Infinitive with the preposition across❌, to express the circumstances of what they were not able to do
 
-sublatam is from a verb that is a compound of sub plus a verb you should know very well. Identify the form of this participle (which for participles means: gender, case, number, tense voice). Find the dictionary entry for this word in thed Lewis-Short’s Latin Dictionary, and give its URN here. Site couldn't be reached feminine, accusative, singular, 
+sublatam is from a verb that is a compound of sub plus a verb you should know very well. Identify the form of this participle (which for participles means: gender, case, number, tense voice). Find the dictionary entry for this word in thed Lewis-Short’s Latin Dictionary, and give its URN here. feminine, accusative, singular, perfect passive participle
 
 Identify the form of sagittis. Why does Hyginus use this case? (Ablative) ❌ to indicate the instrument by which an action is accomplished
 
