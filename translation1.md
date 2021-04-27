@@ -1,4 +1,4 @@
-**Needs revisions.**
+**Full credit**
 
 A. Grammatical analysis ❌ *Please revise this as we did in class.*
 
