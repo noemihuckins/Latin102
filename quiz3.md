@@ -10,7 +10,7 @@ Noun-adjective pairs (in various cases):
 
 uno die: unus, una, unum + dius, dii m.
 totum stercus: totus, tota, totum + stercus, stercoris m.
-ceruum ferocem: 
+ceruum ferocem: cerus, cera, ceruum + fero, ferocis m.
 tantam vim: tantus, tanta, tantum + vis, vis f.
 sagittas suas: suus, sua, suum + sagitta, sagittae f.
 cornibus aureis: aureus, aurea, aureum + cornu, cornus n.
@@ -24,10 +24,10 @@ For the following verbs in various forms, list the four principal parts you woul
 transierat: eo, is, ii, -
 afflabat: afflo, afflas, afflavi, afflatum
 moriebatur: morior, moreris, mortuus sum, -
-exinteravit: 
+exinteravit: ex+ intero, interis, interi, interum
 effugiebat: effugio, effugis, effugi, effugitum
 adduxit: ad + duco, ducis, duxi, ductum
-iaculabantur:
+iaculabantur: iaculor, iacularis, iacula, -
 vescebantur: vescor, vesceris, vesci, -
 detraxit: de + traho, trahis, traxi, tractum
 solitus erat: soleo, soles, solitusi, solitum
@@ -64,12 +64,12 @@ a third-declension noun:
 pars, partis (f.) “part”
 and the adjective magnus/a/um, “great, large,” with irregular comparative maior, and superlative maximus.
 
-The Hydra killed passers by *with a great blowing* of his poisonous breath. 
-The Hydra killed passers by *with a greater blowing* of his poisonous breath.
-The Hydra killed passers by *with the greatest blowing* of his poisonous breath.
-The victims died *in great torment*.
-The victims died *in greater torment*.
-The victims died *in the greatest torment*.
-Hercules cleaned *a great part* of the stables.
-Hercules cleaned *a greater part* of the stables.
-Hercules cleaned *the greatest part* of the stables.
+The Hydra killed passers by *with a great blowing* of his poisonous breath. cum magno afflatu / cum magnus afflatus 
+The Hydra killed passers by *with a greater blowing* of his poisonous breath. cum maiore afflatu / cum maior afflatus
+The Hydra killed passers by *with the greatest blowing* of his poisonous breath.  cum maximo afflatu / cum maximus afflatus 
+The victims died *in great torment*. in magnis cruciatibus / in magni cruciatus
+The victims died *in greater torment*. in maioribus cruciatibus / in maiores cruciatus
+The victims died *in the greatest torment*. in maximis cruciatibus / in maximi cruciatus
+Hercules cleaned *a great part* of the stables. magno parti / magnus pars
+Hercules cleaned *a greater part* of the stables.	maiori parti / maior pars
+Hercules cleaned *the greatest part* of the stables. maximo parti / maximus pars
