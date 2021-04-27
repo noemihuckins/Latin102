@@ -1,5 +1,4 @@
-**Needs revisions**
-**Very solid first draft!**
+**Full credit**
 
 Background story
 (Based on chapter 35 of Hyginus)
