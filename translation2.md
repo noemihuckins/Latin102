@@ -76,4 +76,4 @@ C. Translation
 Deianira, the wife of Hercules, was not able to go across the great river, which was named Evenus. She asked the centaur Nessus, who was the son of Ixion and Nubes, for help.
 After she had been carried in the river, Nessus wanted to rape her.
 When Hercules intervened there and when Deianira begged for his help, Hercules shot Nessus with arrows.
-When he was dying, because he knew that the arrows of Hydra of Lerna had great power because they were soaked in bile. He gave his blood, which had been drawn out, to Deianira and said it was a love potion.❌
+When he was dying, because he knew that the arrows of Hydra of Lerna had great power because they were soaked in bile, he gave his blood, which had been drawn out, to Deianira and said it was a love potion.
