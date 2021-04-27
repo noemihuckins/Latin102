@@ -47,10 +47,11 @@ Eurystheo regi: rex, regis m. + Eurystheus, Eurysthei m.
 Compose a dictionary form for the proper adjectives in the following phrases:
 
 Leonem Nemeum: Leo, Leonis m. Nemeum, Nemei m.
-Hydram Lernaeam: Hydra, Hydrae f.
-aprum Erymanthium
-aves Stymphalides
-Hippolyten Amazonam (NB: Hippolyten is a Greek name in a feminine accusative singular form, like Iolen in our earlier assignment.)
+Hydram Lernaeam: Hydra, Hydrae f. Lernaea, Lernaeas f.
+aprum Erymanthium: aper, apri m. Erymanthius, Erymanthii m.
+aves Stymphalides: avis, avis m. Stymphalis, Stymphalidis m.
+Hippolyten Amazonam (NB: Hippolyten is a Greek name in a feminine accusative singular form, like Iolen in our earlier assignment.) Hippolytus m. Amazon, Amazonis f.
+
 Comparative and superlative forms
 Translate the highlighted phrases in the following English sentences into Latin. Use these vocabulary items:
 
@@ -63,7 +64,7 @@ a third-declension noun:
 pars, partis (f.) “part”
 and the adjective magnus/a/um, “great, large,” with irregular comparative maior, and superlative maximus.
 
-The Hydra killed passers by *with a great blowing* of his poisonous breath.
+The Hydra killed passers by *with a great blowing* of his poisonous breath. 
 The Hydra killed passers by *with a greater blowing* of his poisonous breath.
 The Hydra killed passers by *with the greatest blowing* of his poisonous breath.
 The victims died *in great torment*.
