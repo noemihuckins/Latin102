@@ -29,3 +29,8 @@ Misit famulum eius procreandum ad Herculem veste intincto in sanguine Nessi cent
 Cum Hercules indueret, statim vestem flammaret.
 Hercules jecit famulum, quo missus est Deinnira, in mare.
 Ut relatum est quod Hercules insurrexerit ad immortalitate, sed Deianira sui interfecerit.  
+
+Deianira Oenei filia Herculis uxor cum vidit Iolen amoenam adolescentem puellam captivam machinandi esse adductam verita est ne se coniugio privaret.
+Famulum misit praecepti ad Herculem vestem tinctam sanguine centauri Nessi, qua putatus est philtrum.
+Cum Hercules indueret, statim vestem flammaret.
+
