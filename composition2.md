@@ -23,29 +23,15 @@ privo, privare, privavi, privatus “deprive someone (acc.) of something (abl.)�
 induo, induĕre, indui, indutum “put on an article of dress or ornament”
 statim (adv.) “immediately”
 flammo, flammare, flammavi, flammatus “flame, burn”
-First Draft 
-Cum Deianira, filia Oeneae et uxor Herculis, viderit amoenam adolescentem puellam Iolen adductam esse, coepiebat machinari.
-Misit famulum eius procreandum ad Herculem veste intincto in sanguine Nessi centaurus, qua putatus est philtrum.
-Cum Hercules indueret, statim vestem flammaret.
-Hercules jecit famulum, quo missus est Deinnira, in mare.
-Ut relatum est quod Hercules insurrexerit ad immortalitate, sed Deianira sui interfecerit.  
 
-Second Draft
 
 
 Deianira Oenei filia Herculis uxor 
 cum vidit Iolen amoenam adolescentem puellam captivam esse adductam 
-
-? "began to plot"
-
+coepit machinari
 ne se coniugio privaret.
-
-Famulum misit  ad Herculem vestem [NEED GERUNDIVE] tinctam sanguine centauri Nessi, 
-
-qua putatus est philtrum.
-
-Cum Hercules indueret, statim vestem flammaret. [NEED INDICATIVE]
-
-Hercules famulum, qui missus est Deianira [PURPOSE] vestem attulerat, in mare jactus est.
-
-Ut relatum est quod Hercules insurrexerit ad immortalitate, Deianira autem ob factum Herculis ipsa se interfecit.
+Famulum misit ad vestem ferendam Herculi tinctam sanguine centauri Nessi, 
+quem putavit philtrum esse.
+Cum Hercules indueret, statim vestis flammavit.
+Hercules famulum, qui missus est ab Deianira ad vestem revocandam, in mare jecit.
+Ut relatum est Hercules ascendit ad immortalitatem, Deianira autem ob factum Herculis ipsa se interfecit.
