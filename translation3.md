@@ -16,19 +16,15 @@ Augeae regis stercus bobile uno die purgavit, maiorem partem Iove adiutore; flum
 A. Grammatical analysis
 Place each verbal idea (clause, indirect statement, participial expression) on a separate line, indented to show its level of subordination. Italicize the verb of each unit by surrounding it with asterisks.
 
->>Augeae regis 
->stercus bobile 
-uno die *purgavit*, 
->maiorem partem Iove *adiutore*; 
->>flumine *admisso* totum stercus *abluit*.
+Augeae regis stercus bobile uno die *purgavit*, 
+maiorem partem Iove *adiutore*; 
+>flumine *admisso* 
+totum stercus *abluit*.
 taurum 
 >cum quo Pasiphae *concubuit* 
->ex Creta insula Mycenis 
-vivum *adduxit*.
-Diomedem 
->Thraciae regem 
->et equos quattuor *eius*, 
->>qui carne humana *vescebantur*, 
+ex Creta insula Mycenis vivum *adduxit*.
+Diomedem Thraciae regem et equos quattuor *eius*, 
+>qui carne humana *vescebantur*, 
 cum Abdero famulo *interfecit*; 
 equorum autem nomina Podargus Lampon Xanthus Dinus.
 
@@ -37,13 +33,15 @@ In the phrase, Iove adiutore, what case is Iove? What kind of construction is th
 What case is stercus, and why is it in that case? Nominative because it is the subject of the sentence
 Identify the form of the adjective maiorem (gender, case, number, degree). Masculine, accusative, singular, comparative
 Explain the construction of the verbal unit flumine admisso. Perfect passive participle in the ablative, explaining the means by which the stall was cleaned  
-What are the gender, number, case, and antecedent of qui? masculine, plural, nominative, equos
-What Latin verb form has to be understood in the clause that runs from equorum to Dinus? 
+What are the gender, number, case, and antecedent of qui? masculine, plural, nominative, the horses equos
+What Latin verb form has to be understood in the clause that runs from equorum to Dinus? predicate nominative and linking verb in the nominative plural
 
 C. Literary commentary
 Choose two choices of syntax, word order, or diction that Hyginus makes in this passage that complement or enhance the meaning of the passage’s content. Discuss briefly s in 3-4 sentences. Italicize Latin words when citing them.
+*nomina* is the nominative plural linking verb for the last sentence because there is no verb in the last clause of this passage.
+*Podargus Lampon Xanthus Dinus* stands as predicate nominative 
 
 D. Translation
-In one day he cleaned the dung stall of King Augeas, for the most part Jove helped him; he let in a river to clean all of the dung.
-The bull with which Pasiphae lay with was lead back to life out of the island of Crete to Mycenae.
-Diomedes, King of Thrace, and his four horses, which eat human flesh, killed the slave Abderus; however, the names of the horses were Podargus, Lampon, Xanthus, and Dinus. 
+He cleaned away the dung from the stall of King Augeas in a single day, he cleaned most of it since Jupiter was the helper; he let in a river to clean all of the dung.
+He lead the living bull with whom Pasiphae lay with from the island of Crete to Mycenae.
+Hercules killed Diomedes, King of Thrace, and his four horses, which fed on human flesh, along with the slave Abderus; and the names of the horses were Podargus, Lampon, Xanthus, and Dinus. 
